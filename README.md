@@ -6,4 +6,4 @@
 
 克隆到本地把 `pet.json` 和 `spritesheet.webp` 放入自己电脑的 `~/.codex/pets/gpt-xiaolong/` 目录（Windows 为 `%USERPROFILE%\.codex\pets\gpt-xiaolong\`），再在 **Settings → Pets** 刷新。
 
-
+![79050846994](D:\VSdaima\unity\LeetvsCode4\gpt-xiaolong-pet\share\gpt-xiaolong\GPTMiniCharacter\1790508469947.png)
